@@ -1,0 +1,11 @@
+<x-disambiguation>
+This article is about the 2022 season. For the 2020 season, see <x-ref>Season 1</x-ref>.
+</x-disambiguation>
+
+# Season 1 (Free-for-All)
+<x-infobox entity="Season" id="s1" template="Season" />
+
+This is the seventh season in Fall Guys: Ultimate Knockout.
+
+## Rounds Introduced
+<x-list entity="Round" filter="Season" key="ss1" orderBy="Name" order="Ascending" select="Name,RoundType,Objective,HowTo"/>
