@@ -2,7 +2,7 @@
 This article is about the 2022 season. For the 2020 season, see <x-ref>Season 1</x-ref>.
 </x-disambiguation>
 
-# Season 1 (Free-for-All)
+# Season 1 (Free for All)
 <x-infobox entity="Season" id="ss1" template="Season" />
 
 This is the seventh season in Fall Guys: Ultimate Knockout.
