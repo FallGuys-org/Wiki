@@ -1,5 +1,5 @@
 <x-disambiguation>
-This article is about the 2020 season. For the 2022 season, see <x-ref>Season 1 (Free for All)</x-ref>.
+This article is about the 2020 season. For the 2022 season, see <x-ref>Season 1 (Free-for-All)</x-ref>.
 </x-disambiguation>
 
 # Season 1
