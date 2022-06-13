@@ -1,0 +1,2 @@
+# Seasons
+<x-list entity="Season" select="Name,Theme,Start,End"/>
