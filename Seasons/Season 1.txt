@@ -6,4 +6,4 @@ This article is about the 2020 season. For the 2022 season, see <x-ref>Season 1 
 <x-infobox entity="Season" id="s1" template="Season" />
 
 ## Rounds Introduced
-<x-list entity="Round" filter="Season" key="s1" select="Name,RoundType,Objective"/>
+<x-list entity="Round" filter="Season" key="s1" select="Name,RoundType,Objective,HowTo"/>
