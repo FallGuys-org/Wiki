@@ -1,0 +1,4 @@
+# Season 2 (Legacy)
+
+## Rounds Introduced
+<x-list entity="Round" filter="Season" key="s2" select="Name,RoundType,Objective,HowTo"/>
