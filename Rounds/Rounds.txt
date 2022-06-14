@@ -1,0 +1,2 @@
+# Rounds
+<x-list entity="Round" select="Name,RoundType,Objective,HowTo"/>
